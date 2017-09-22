@@ -9,23 +9,25 @@
 </head>
   <body>
     <script type="text/javascript" src="script.js"></script>
+    <div class="w3-container">
     <h1>Cat Facts Newsletter</h1>
     <h2>Sign up now for a cat fact every day!</h2>
-    <img src="images/cat.jpg" id="cat" alt="Boy howdy it's a cat">
+    <p><img src="images/cat.jpg" id="cat" alt="Boy howdy it's a cat"></p>
+    </div>
     <form>
       <fieldset name="info">
         <legend>Your Information</legend>
         <p><label>First Name: 
-        <input type="text" name="first">
+        <input type="text" name="first" placeholder="First Name">
           </label></p>
         <p><label>Last Name: 
-        <input type="text" name="last">
+        <input type="text" name="last" placeholder="Last Name">
           </label></p>
         <p><label>Email Address: 
-        <input type="text" name="email">
+        <input type="text" name="email" placeholder="Email">
           </label></p>
         <p><label>Phone Number: 
-        <input type="text" name="phone">
+        <input type="text" name="phone" placeholder="Phone Number">
           </label></p>
         <p><input type="submit" value="Get Cat Facts" onclick="return button();"></p>
       </fieldset>
