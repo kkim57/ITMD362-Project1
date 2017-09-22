@@ -5,7 +5,7 @@ body {
 h1 {
 	display: block;
 	font-size: 4em;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	font-weight: bold;
 	text-align: center;
 }
@@ -13,7 +13,7 @@ h1 {
 h2 {
 	display: block;
 	font-size: 2em;
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 	text-align: center;
 }
 
@@ -25,11 +25,11 @@ fieldset {
 }
 
 label {
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 }
 
 legend {
-	font-family: Arial; sans-serif;
+	font-family: Arial;
 }
 
 img {
