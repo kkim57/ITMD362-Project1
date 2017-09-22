@@ -28,18 +28,17 @@ legend {
 img {
 	display: block;
 	margin: auto;
-	height: 100%;
-	max-width: auto;
+	max-width: 100%;
+	height: auto;
 }
 
-/* For devices smaller than 400px: */ {
-	fieldset {
+/* For devices smaller than 400px: */
+fieldset {
 	background-color: #C6E2FF;
 	text-align: center;
 	margin-left: 15px;
 	margin-right: 15px;
 	}
-}
 
 /* For devices 400px and larger: */
 @media only screen and (min-device-width: 400px) {
