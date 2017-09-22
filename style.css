@@ -20,8 +20,8 @@ h2 {
 fieldset {
 	background-color: #C6E2FF;
 	text-align: center;
-	margin-left: 20em;
-	margin-right: 20em;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 label {
@@ -35,4 +35,6 @@ legend {
 img {
 	display: block;
 	margin: auto;
+	height: auto;
+	width: auto;
 }
