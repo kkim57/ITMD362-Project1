@@ -1,3 +1,27 @@
 body {
 	background-image: url("images/catbackground.png");
 }
+
+h1 {
+	display: block;
+	font-size: 4em;
+	font-family: Arial; sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	display: block;
+	font-size: 2em;
+	font-family: Arial; sans-serif;
+	text-align: center;
+}
+
+fieldset {
+	background-color: #C6E2FF;
+}
+
+label {
+	font-family: Arial; sans-serif;
+	text-align: center;
+}
