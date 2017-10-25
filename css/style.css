@@ -34,7 +34,7 @@ img {
 
 /* For devices smaller than 400px: */
 fieldset {
-	background-color: #C6E2FF;
+	background-color: #FFFFFF;
 	text-align: center;
 	margin-left: 15px;
 	margin-right: 15px;
@@ -43,7 +43,7 @@ fieldset {
 /* For devices 400px and larger: */
 @media only screen and (min-device-width: 400px) {
 	fieldset {
-	background-color: #C6E2FF;
+	background-color: #FFFFFF;
 	text-align: center;
 	margin-left: 20em;
 	margin-right: 20em;
