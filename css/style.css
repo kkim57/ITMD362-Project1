@@ -1,6 +1,6 @@
 body {
 	line-height: 2em;
-	background-image: url("images/catbackground.png");
+	background: url("../images/catbackground.png");
 }
 
 h1 {
